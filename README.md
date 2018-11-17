@@ -19,6 +19,7 @@ If you are not sure where to start, consider the advice from the Gang of Four:
 According to the Gang of Four, these are the simplest and most common patterns:
 
 * [] Abstract Factory
+* [x] Singleton
 * [] Adapter
 * [] Composite
 * [] Decorator
