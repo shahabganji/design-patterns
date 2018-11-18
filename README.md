@@ -27,4 +27,4 @@ According to the Gang of Four, these are the simplest and most common patterns:
 * [x] Factory Method
 * [x] Observer
 * [] Strategy 
-* [] Template Method
+* [x] Template Method
