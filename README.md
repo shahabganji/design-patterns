@@ -20,11 +20,15 @@ According to the Gang of Four, these are the simplest and most common patterns:
 
 
 * [x] Abstract Factory
+* [x] Factory Method
 * [x] Singleton
+* [x] Builder
+* [x] Prototype ( Cloneable )
+
 * [] Adapter
 * [] Composite
 * [] Decorator
-* [x] Factory Method
+
 * [x] Observer
 * [x] Strategy 
 * [x] Template Method
